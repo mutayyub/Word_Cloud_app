@@ -122,4 +122,5 @@ if uploaded_file:
             st.markdown(get_table_download_link(word_count, "word_count.csv", "Click Here to Download"), unsafe_allow_html=True)
 
     # ℹ️ Sidebar info
-    st.sidebar.markdown("Created by: [Dr. Muhammad Aammar Tufail](https://github.com/mutayyub)")
+    st.sidebar.markdown("Created by: [Mutayyub Majeed](https://github.com/mutayyub)")
+
