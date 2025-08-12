@@ -122,9 +122,4 @@ if uploaded_file:
             st.markdown(get_table_download_link(word_count, "word_count.csv", "Click Here to Download"), unsafe_allow_html=True)
 
     # ℹ️ Sidebar info
-    # st.sidebar.markdown("---")
-    # st.sidebar.subheader("📺 Learn Data Science")
-    # st.sidebar.video("https://youtu.be/omk5b1m2h38")
-    # st.sidebar.markdown("---")
-    # st.sidebar.markdown("Created by: [Dr. Muhammad Aammar Tufail](https://github.com/AammarTufail)")
-    # st.sidebar.markdown("Contact: [Email](mailto:aammar@codanics.com)")
+    st.sidebar.markdown("Created by: [Dr. Muhammad Aammar Tufail](https://github.com/mutayyub)")
